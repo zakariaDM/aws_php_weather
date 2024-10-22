@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Sofrecom-GCP-PHP</title>
+    <title>AWS-PHP</title>
     <link rel="stylesheet" href="./bootstrap.min.css">
     <link rel="stylesheet" href="./style.css">
 </head>
@@ -93,9 +93,8 @@ try {
         <div class="container">
             <div class="row banner-row">
                 <div class="col-md-6 banner-txt">
-                    <h1>Google Cloud Platform (GCP)</h1>
-                    <p>Google Cloud Platform (GCP) is a suite of cloud computing services offered by Google. It provides a wide range of services and tools for computing, storage, data analytics, machine learning, and more. </p>
-                      <p>Google Cloud Platform is designed to enable businesses and developers to build, deploy, and scale applications, websites, and services on the same infrastructure that powers Google's products, such as Google Search, Gmail, and YouTube.</p>
+                    <h1>AWS WEATHER PHP</h1>
+                    <p>Today's weather offers a mix of conditions, with clear skies in the morning giving way to partly cloudy skies in the afternoon. Temperatures will remain mild, ranging from 18°C to 24°C, perfect for outdoor activities. Light winds will breeze through at around 10 km/h, providing a refreshing feel. By evening, there’s a slight chance of rain, especially in coastal areas, as clouds gather. Overnight, temperatures will drop to a cooler 14°C. If you're heading out, it might be worth carrying an umbrella, just in case. Overall, a pleasant day with a slight chance of showers later.</p>
                     <div class="btn-row row">
                        <!-- <button class="btn btn-primary">Read More</button>
                        <button class="btn btn-outline-primary">Create Account</button> -->
